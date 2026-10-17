@@ -1,0 +1,45 @@
+{
+  "recovery": {
+    "fake_followers": {
+      "n": 3351,
+      "n_in_graph": 3351,
+      "dominant_community": 2802,
+      "members_in_dominant": 2745,
+      "recovered_frac": 0.8192,
+      "recovered_ge_70": true
+    },
+    "social_spambots_1": {
+      "n": 991,
+      "n_in_graph": 991,
+      "dominant_community": 1224,
+      "members_in_dominant": 420,
+      "recovered_frac": 0.4238,
+      "recovered_ge_70": false
+    },
+    "social_spambots_2": {
+      "n": 3457,
+      "n_in_graph": 3457,
+      "dominant_community": 2804,
+      "members_in_dominant": 1634,
+      "recovered_frac": 0.4727,
+      "recovered_ge_70": false
+    },
+    "social_spambots_3": {
+      "n": 464,
+      "n_in_graph": 464,
+      "dominant_community": 1224,
+      "members_in_dominant": 412,
+      "recovered_frac": 0.8879,
+      "recovered_ge_70": true
+    }
+  },
+  "nmi": 0.421059013442055,
+  "gate_survival": {
+    "fake_followers": 0.9973,
+    "social_spambots_1": 0.9758,
+    "social_spambots_2": 0.9974,
+    "social_spambots_3": 0.9095
+  },
+  "n_bot_accounts": 8263,
+  "n_bot_in_graph": 8263
+}

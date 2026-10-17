@@ -1,0 +1,11 @@
+# datasets (download separately, see README)
+cresci/users/
+*.csv.zip
+instafake/*AccountData.json
+instafake/README.md
+# large intermediates
+*.pkl
+*.npy
+*.pt
+__pycache__/
+*.log

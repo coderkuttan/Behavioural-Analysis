@@ -1,0 +1,50 @@
+{
+  "held_out": {
+    "fake_followers": {
+      "n_train": 6709,
+      "n_train_bots": 3930,
+      "n_held_out_campaign": 3351,
+      "overall_precision": 0.9894,
+      "overall_recall": 0.1113,
+      "overall_f1": 0.2001,
+      "overall_auc": 0.9747,
+      "held_out_campaign_recall": 0.1113
+    },
+    "social_spambots_1": {
+      "n_train": 8596,
+      "n_train_bots": 5817,
+      "n_held_out_campaign": 991,
+      "overall_precision": 0.987,
+      "overall_recall": 0.9162,
+      "overall_f1": 0.9503,
+      "overall_auc": 0.9768,
+      "held_out_campaign_recall": 0.9162
+    },
+    "social_spambots_2": {
+      "n_train": 6623,
+      "n_train_bots": 3844,
+      "n_held_out_campaign": 3457,
+      "overall_precision": 0.9956,
+      "overall_recall": 0.9873,
+      "overall_f1": 0.9914,
+      "overall_auc": 0.9936,
+      "held_out_campaign_recall": 0.9873
+    },
+    "social_spambots_3": {
+      "n_train": 9018,
+      "n_train_bots": 6239,
+      "n_held_out_campaign": 464,
+      "overall_precision": 0.9487,
+      "overall_recall": 0.4784,
+      "overall_f1": 0.6361,
+      "overall_auc": 0.9624,
+      "held_out_campaign_recall": 0.4784
+    }
+  },
+  "in_distribution_control": {
+    "fake_followers": 0.9922,
+    "social_spambots_1": 0.9627,
+    "social_spambots_2": 0.9948,
+    "social_spambots_3": 0.9483
+  }
+}

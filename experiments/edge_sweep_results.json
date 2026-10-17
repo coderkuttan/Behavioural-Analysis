@@ -1,0 +1,251 @@
+{
+  "edge_weights": {
+    "s_ffr": 0.2472125470303011,
+    "s_age": 0.18481661231068713,
+    "s_pr": 0.26291518028374494,
+    "s_eng": 0.30505566037526693
+  },
+  "m_gated": 8862,
+  "results": [
+    {
+      "theta": 0.01,
+      "cutoff": 0.5,
+      "n_edges": 9428518,
+      "build_time_s": 2.0,
+      "non_isolated_gated": 8819,
+      "isolated_gated": 43,
+      "mean_degree": 2138.2,
+      "median_degree": 832.0,
+      "density": 0.2425,
+      "isolated_test": 580,
+      "edge_index_mb": 301.7,
+      "louvain_time_s": 55.0,
+      "n_communities": 6,
+      "n_communities_ge10": 4,
+      "nmi_bots_in_graph": 0.4066,
+      "recovery": {
+        "fake_followers": {
+          "coverage": 0.858,
+          "purity": 0.8179,
+          "dominant_size": 3515
+        },
+        "social_spambots_1": {
+          "coverage": 0.5217,
+          "purity": 0.2088,
+          "dominant_size": 2476
+        },
+        "social_spambots_2": {
+          "coverage": 0.5001,
+          "purity": 0.6983,
+          "dominant_size": 2476
+        },
+        "social_spambots_3": {
+          "coverage": 0.8858,
+          "purity": 0.247,
+          "dominant_size": 1664
+        }
+      },
+      "campaigns_recovered_ge70": 2
+    },
+    {
+      "theta": 0.02,
+      "cutoff": 0.5,
+      "n_edges": 10680740,
+      "build_time_s": 2.2,
+      "non_isolated_gated": 8855,
+      "isolated_gated": 7,
+      "mean_degree": 2412.4,
+      "median_degree": 1369.0,
+      "density": 0.2725,
+      "isolated_test": 573,
+      "edge_index_mb": 341.8,
+      "louvain_time_s": 45.9,
+      "n_communities": 7,
+      "n_communities_ge10": 5,
+      "nmi_bots_in_graph": 0.389,
+      "recovery": {
+        "fake_followers": {
+          "coverage": 0.8356,
+          "purity": 0.8715,
+          "dominant_size": 3213
+        },
+        "social_spambots_1": {
+          "coverage": 0.4248,
+          "purity": 0.2668,
+          "dominant_size": 1578
+        },
+        "social_spambots_2": {
+          "coverage": 0.3891,
+          "purity": 0.7113,
+          "dominant_size": 1891
+        },
+        "social_spambots_3": {
+          "coverage": 0.8879,
+          "purity": 0.2611,
+          "dominant_size": 1578
+        }
+      },
+      "campaigns_recovered_ge70": 2
+    },
+    {
+      "theta": 0.03,
+      "cutoff": 0.5,
+      "n_edges": 11742238,
+      "build_time_s": 2.1,
+      "non_isolated_gated": 8861,
+      "isolated_gated": 1,
+      "mean_degree": 2650.3,
+      "median_degree": 1876.0,
+      "density": 0.2991,
+      "isolated_test": 571,
+      "edge_index_mb": 375.8,
+      "louvain_time_s": 74.7,
+      "n_communities": 5,
+      "n_communities_ge10": 4,
+      "nmi_bots_in_graph": 0.4049,
+      "recovery": {
+        "fake_followers": {
+          "coverage": 0.8403,
+          "purity": 0.8707,
+          "dominant_size": 3234
+        },
+        "social_spambots_1": {
+          "coverage": 0.4228,
+          "purity": 0.2676,
+          "dominant_size": 1566
+        },
+        "social_spambots_2": {
+          "coverage": 0.4747,
+          "purity": 0.749,
+          "dominant_size": 2191
+        },
+        "social_spambots_3": {
+          "coverage": 0.8836,
+          "purity": 0.2618,
+          "dominant_size": 1566
+        }
+      },
+      "campaigns_recovered_ge70": 2
+    },
+    {
+      "theta": 0.04,
+      "cutoff": 0.5,
+      "n_edges": 12781350,
+      "build_time_s": 2.1,
+      "non_isolated_gated": 8862,
+      "isolated_gated": 0,
+      "mean_degree": 2884.5,
+      "median_degree": 2371.0,
+      "density": 0.3255,
+      "isolated_test": 571,
+      "edge_index_mb": 409.0,
+      "louvain_time_s": 55.1,
+      "n_communities": 5,
+      "n_communities_ge10": 5,
+      "nmi_bots_in_graph": 0.4237,
+      "recovery": {
+        "fake_followers": {
+          "coverage": 0.8192,
+          "purity": 0.8869,
+          "dominant_size": 3095
+        },
+        "social_spambots_1": {
+          "coverage": 0.4238,
+          "purity": 0.268,
+          "dominant_size": 1567
+        },
+        "social_spambots_2": {
+          "coverage": 0.4727,
+          "purity": 0.7374,
+          "dominant_size": 2216
+        },
+        "social_spambots_3": {
+          "coverage": 0.8879,
+          "purity": 0.2629,
+          "dominant_size": 1567
+        }
+      },
+      "campaigns_recovered_ge70": 2
+    },
+    {
+      "theta": 0.05,
+      "cutoff": 0.5,
+      "n_edges": 13883855,
+      "build_time_s": 2.1,
+      "non_isolated_gated": 8862,
+      "isolated_gated": 0,
+      "mean_degree": 3133.3,
+      "median_degree": 2939.0,
+      "density": 0.3536,
+      "isolated_test": 571,
+      "edge_index_mb": 444.3,
+      "louvain_time_s": 72.9,
+      "n_communities": 4,
+      "n_communities_ge10": 4,
+      "nmi_bots_in_graph": 0.4218,
+      "recovery": {
+        "fake_followers": {
+          "coverage": 0.8168,
+          "purity": 0.8835,
+          "dominant_size": 3098
+        },
+        "social_spambots_1": {
+          "coverage": 0.5802,
+          "purity": 0.3372,
+          "dominant_size": 1705
+        },
+        "social_spambots_2": {
+          "coverage": 0.4492,
+          "purity": 0.7923,
+          "dominant_size": 1960
+        },
+        "social_spambots_3": {
+          "coverage": 0.8836,
+          "purity": 0.2405,
+          "dominant_size": 1705
+        }
+      },
+      "campaigns_recovered_ge70": 2
+    },
+    {
+      "theta": 0.04,
+      "cutoff": 0.75,
+      "n_edges": 3429614,
+      "build_time_s": 1.7,
+      "non_isolated_gated": 8732,
+      "isolated_gated": 130,
+      "mean_degree": 785.5,
+      "median_degree": 570.0,
+      "density": 0.09,
+      "isolated_test": 593,
+      "edge_index_mb": 109.7,
+      "louvain_time_s": 15.3,
+      "n_communities": 43,
+      "n_communities_ge10": 16,
+      "nmi_bots_in_graph": 0.5067,
+      "recovery": {
+        "fake_followers": {
+          "coverage": 0.5148,
+          "purity": 0.9874,
+          "dominant_size": 1747
+        },
+        "social_spambots_1": {
+          "coverage": 0.5479,
+          "purity": 0.9427,
+          "dominant_size": 576
+        },
+        "social_spambots_2": {
+          "coverage": 0.534,
+          "purity": 0.7943,
+          "dominant_size": 2324
+        },
+        "social_spambots_3": {
+          "coverage": 0.8642,
+          "purity": 0.4266,
+          "dominant_size": 940
+        }
+      },
+      "campaigns_recovered_ge70": 1
+    }
+  ]
+}

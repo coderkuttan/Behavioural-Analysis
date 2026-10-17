@@ -1,0 +1,15 @@
+{
+  "theta": 0.01,
+  "cutoff": 0.5,
+  "n_edges": 9428518,
+  "epochs": 34,
+  "train_time_s": 676.0,
+  "best_val_f1": 0.982,
+  "test": {
+    "precision": 0.9718,
+    "recall": 0.98,
+    "f1": 0.9759,
+    "auc": 0.992,
+    "fpr": 0.0676
+  }
+}

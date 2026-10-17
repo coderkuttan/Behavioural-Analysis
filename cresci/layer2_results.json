@@ -1,0 +1,37 @@
+{
+  "gcn_result": {
+    "model": "GCN (Layer 2)",
+    "precision": 0.9731,
+    "recall": 0.9849,
+    "f1": 0.979,
+    "auc": 0.991,
+    "fpr": 0.0647
+  },
+  "gcn_noniso": {
+    "n": 1777,
+    "precision": 0.9772,
+    "recall": 0.9957,
+    "f1": 0.9864,
+    "auc": 0.9729
+  },
+  "gcn_iso": {
+    "n": 571,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "auc": 0.8175
+  },
+  "iso_in_test": 571,
+  "n_test": 2348,
+  "louvain_result": {
+    "model": "Louvain",
+    "precision": 0.9201,
+    "recall": 0.9891,
+    "f1": 0.9534,
+    "auc": 0.9844,
+    "fpr": 0.2043
+  },
+  "n_communities": 2880,
+  "louvain_gcn_agreement": 0.9497444633730835,
+  "best_val_f1": 0.9813365442504516
+}
